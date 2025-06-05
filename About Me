@@ -1,0 +1,8 @@
+# About Me
+
+
+name = "Sumaiya Parvin"
+reason = "want to play with numbers"
+fun_fact = "start a new"
+
+print(f"Hi! My name is {name}. I’m excited to learn because {reason}. A fun fact about me is: {fun_fact}.")
